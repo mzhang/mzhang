@@ -1,11 +1,5 @@
+# [🧑‍💻 mzhang](https://zhang.software/) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-
-<center>
-    <h1 align="center"> :seedling:	 Matt Zhang</h1>
-    <h4 align="center">A software engineer exploring ways to talk to computers</h4>
-</center>
-
-[![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) 
 # Features:
 
 :pancakes: Fullstack experience & mesmerized by AI
