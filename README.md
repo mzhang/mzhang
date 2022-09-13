@@ -10,7 +10,7 @@
 
 ## Setup
 
-:envelope: Compose a message to `matt@zhang.software` using email clients like [Gmail](gmail.com) or [Outlook](outlook.com)
+:envelope: Compose a message to `matt@zhang.software` with your [favourite mail client](mailto:matt@zhang.software)
 
 -- or --
 
