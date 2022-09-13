@@ -2,7 +2,7 @@
 
 ## Features:
 
-:pancakes: Fullstack experience & mesmerized by ML
+:pancakes: Experienced in fullstack & mesmerized by ML
 
 :dizzy: Easily fascinated by new projects
 
