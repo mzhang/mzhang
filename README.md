@@ -27,4 +27,4 @@
 
 ## Additional Documentation
 
-Available [:link: here](https://zhang.software/) and [:receipt: here](https://github.com/mzhang/resume/resume.pdf). 
+:receipt: Available [here](https://github.com/mzhang/resume/resume.pdf). 
