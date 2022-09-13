@@ -8,8 +8,6 @@
 
 :telescope: On the lookout for Summer 2023 opportunities
 
-:gem: Additional features unlocked with pro subscription
-
 ## Setup
 
 :envelope: Compose a message to `matt@zhang.software` using email clients like [Gmail](gmail.com) or [Outlook](outlook.com)
