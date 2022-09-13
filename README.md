@@ -18,15 +18,15 @@
 
 ## Setup
 
-:envelope: Using email clients like [Gmail](gmail.com) or [Outlook](outlook.com), compose a message to `matt@zhang.software`
+:envelope: Compose a message to `matt@zhang.software` using email clients like [Gmail](gmail.com) or [Outlook](outlook.com)
 
 -- or --
 
-:handshake: Connect using [LinkedIn](https://www.linkedin.com/in/mattzhang-/)
+:handshake: Connect directly using [LinkedIn](https://www.linkedin.com/in/mattzhang-/)
 
 ## Known Bugs:
 
-:nerd_face:	Spends too much time trying to make clean
+:nerd_face:	Spends too much time obsessing over variable names
 
 :facepalm: Forgets Git every 2 weeks
 
@@ -35,4 +35,4 @@
 
 ## Additional Documentation
 
-Available [here](https://zhang.software/). 
+Available [here](https://zhang.software/) and [here](https://github.com/mzhang/resume/resume.pdf). 
