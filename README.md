@@ -1,6 +1,6 @@
 # [🧑‍💻 mzhang](https://zhang.software/) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react) [![CircleCI Status](https://circleci.com/gh/facebook/react.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/facebook/react) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-## Features:
+## 🧮 Features
 
 🥞 Experienced in fullstack & mesmerized by ML
 
@@ -10,7 +10,7 @@
 
 🔭 On the lookout for Winter 2024 opportunities
 
-## Setup
+## 🔧 Setup
 
 1. 📰 Review [documentation here.](https://zhang.software/resume.pdf) 
 
@@ -22,7 +22,7 @@
 
 4. 🔃 Restart your terminal or use `source ~/.zshrc`
 
-## Known Bugs:
+## 🐛 Known Bugs
 
 🤷 Doesn't know when to capitalize `ID` in variable names
 
