@@ -14,7 +14,7 @@
 
 1. 📰 Review [documentation here.](https://zhang.software/resume.pdf) 
 
-2. 🤝 Connect directly using [LinkedIn](https://www.linkedin.com/in/mattzhang-/
+2. 🤝 Connect directly using [LinkedIn](https://www.linkedin.com/in/mattzhang-/)
  
 -- OPTIONAL --
 
