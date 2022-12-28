@@ -2,29 +2,35 @@
 
 ## Features:
 
-:pancakes: Experienced in fullstack & mesmerized by ML
+🥞 Experienced in fullstack & mesmerized by ML
 
-:dizzy: Easily fascinated by new projects
+🦎 React, Go, Python, C++
 
-:telescope: On the lookout for Summer 2023 opportunities
+💫 Easily fascinated by new projects
+
+🔭 On the lookout for Winter 2024 opportunities
 
 ## Setup
 
-:envelope: Compose a message to `matt@zhang.software` with your favourite email client
+1. 📰 Review [documentation here.](https://zhang.software/resume.pdf) 
 
--- or --
+2. 🤝 Connect directly using [LinkedIn](https://www.linkedin.com/in/mattzhang-/
+ 
+-- OPTIONAL --
 
-:handshake: Connect directly using [LinkedIn](https://www.linkedin.com/in/mattzhang-/)
+3. :envelope: Compose a message to `matt@zhang.software` 
+
+4. 🔃 Restart your terminal or use `source ~/.zshrc`
 
 ## Known Bugs:
 
-:nerd_face:	Spends too much time obsessing over variable names
+🤷 Doesn't know when to capitalize `ID` in variable names
 
-:facepalm: Forgets Git every 2 weeks
+🤦 Forgets Git CLI & falls back to GUI every 2 weeks
 
-:speak_no_evil: Uses `:+1:` too much in Slack channels
+🙊 Uses `:+1:` too much in Slack channels
 
 
 ## Additional Documentation
 
-:receipt: Available [here](https://zhang.software/) and [here](https://zhang.software/resume.pdf). 
+🧾 Available [here](https://zhang.software/) and [here](https://zhang.software/resume.pdf). 
